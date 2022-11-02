@@ -25,7 +25,7 @@ About me :</h3>
 <br>
 <p><em>:computer: Daily using <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>SASS</code></em></p>
 <br>
-<p><em>:zap: Currently learning <code>React.js</code></em>
+<p><em>:zap: Currently learning <code>Typescript</code></em>
 </p>
 <br>
 
