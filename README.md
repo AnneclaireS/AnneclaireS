@@ -14,6 +14,7 @@ I'm Anna</strong>
     <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?logo=javascript&logoColor=black"></code>
     <code><img alt="Git" src="https://img.shields.io/badge/Git-f0efe7.svg?logo=git"></code>
     <code><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></code>
+    <code><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></code>
 </div>
 
 <h3>
@@ -23,7 +24,7 @@ About me :</h3>
 <br>
 <p><em>:book: I'm following a 7-month intensive <strong>Full Stack Development</strong> Bootcamp</em></p>
 <br>
-<p><em>:computer: Daily using <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>SASS</code></em></p>
+<p><em>:computer: Daily using <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>SASS</code>, <code>React.js</code></em></p>
 <br>
 <p><em>:zap: Currently learning <code>Typescript</code></em>
 </p>
