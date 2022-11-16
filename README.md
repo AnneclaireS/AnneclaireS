@@ -24,9 +24,9 @@ About me :</h3>
 <br>
 <p><em>:book: I'm following a 7-month intensive <strong>Full Stack Development</strong> Bootcamp</em></p>
 <br>
-<p><em>:computer: Daily using <code>HTML</code>, <code>CSS</code>, <code>GIT/GITHUB</code>, <code>JavaScript</code>, <code>SASS</code>, <code>React.js</code></em></p>
+<p><em>:computer: Daily using <code>HTML</code>, <code>CSS</code>, <code>GIT/GITHUB</code>, <code>JavaScript</code>, <code>SASS</code>, <code>React.js</code>, <code>Typescript</code></em></p>
 <br>
-<p><em>:zap: Currently learning <code>Typescript</code></em>
+<p><em>:zap: Currently learning <code>NODE.js</code></em>
 </p>
 <br>
 
